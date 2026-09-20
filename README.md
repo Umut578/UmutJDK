@@ -1,4 +1,4 @@
-# UmutJDK 10 (2wb2a1-snapshot)
+# UmutJDK 10/11 (2wb2a1-snapshot)
 
 [**TR**](#türkçe) | [**EN**](#english)
 
